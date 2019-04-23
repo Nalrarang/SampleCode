@@ -1,2 +1,2 @@
 ### SampleCode
-SampleCode 저장용입니다.
+코딩 스타일 예시용
